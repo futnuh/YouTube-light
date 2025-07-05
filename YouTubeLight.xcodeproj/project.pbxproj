@@ -7,54 +7,27 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		D5E35C962ACB6D6F00E08DE2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5E35C952ACB6D6F00E08DE2 /* AppDelegate.swift */; };
-		D5E35C982ACB6D6F00E08DE2 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5E35C972ACB6D6F00E08DE2 /* SceneDelegate.swift */; };
-		D5E35C9B2ACB6D6F00E08DE2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D5E35C992ACB6D6F00E08DE2 /* LaunchScreen.storyboard */; };
-		D5E35C9E2ACB6D6F00E08DE2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D5E35C9C2ACB6D6F00E08DE2 /* Main.storyboard */; };
 		D5E35CA72ACB6D6F00E08DE2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5E35CA62ACB6D6F00E08DE2 /* AppDelegate.swift */; };
 		D5E35CAA2ACB6D6F00E08DE2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D5E35CA82ACB6D6F00E08DE2 /* Main.storyboard */; };
-		D5E35CB12ACB6D6F00E08DE2 /* YouTubeLight Extension.appex in Embed Foundation Extensions */ = {isa = PBXBuildFile; fileRef = D5E35CB02ACB6D6F00E08DE2 /* YouTubeLight Extension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
 		D5E35CBB2ACB6D6F00E08DE2 /* YouTubeLight Extension.appex in Embed Foundation Extensions */ = {isa = PBXBuildFile; fileRef = D5E35CBA2ACB6D6F00E08DE2 /* YouTubeLight Extension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
-		D5E35CC12ACB6D6F00E08DE2 /* Main.html in Resources */ = {isa = PBXBuildFile; fileRef = D5E35C7C2ACB6D6D00E08DE2 /* Main.html */; };
 		D5E35CC22ACB6D6F00E08DE2 /* Main.html in Resources */ = {isa = PBXBuildFile; fileRef = D5E35C7C2ACB6D6D00E08DE2 /* Main.html */; };
-		D5E35CC32ACB6D6F00E08DE2 /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = D5E35C7E2ACB6D6D00E08DE2 /* Icon.png */; };
 		D5E35CC42ACB6D6F00E08DE2 /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = D5E35C7E2ACB6D6D00E08DE2 /* Icon.png */; };
-		D5E35CC52ACB6D6F00E08DE2 /* Style.css in Resources */ = {isa = PBXBuildFile; fileRef = D5E35C7F2ACB6D6D00E08DE2 /* Style.css */; };
 		D5E35CC62ACB6D6F00E08DE2 /* Style.css in Resources */ = {isa = PBXBuildFile; fileRef = D5E35C7F2ACB6D6D00E08DE2 /* Style.css */; };
-		D5E35CC72ACB6D6F00E08DE2 /* Script.js in Resources */ = {isa = PBXBuildFile; fileRef = D5E35C802ACB6D6D00E08DE2 /* Script.js */; };
 		D5E35CC82ACB6D6F00E08DE2 /* Script.js in Resources */ = {isa = PBXBuildFile; fileRef = D5E35C802ACB6D6D00E08DE2 /* Script.js */; };
-		D5E35CC92ACB6D6F00E08DE2 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5E35C812ACB6D6D00E08DE2 /* ViewController.swift */; };
 		D5E35CCA2ACB6D6F00E08DE2 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5E35C812ACB6D6D00E08DE2 /* ViewController.swift */; };
-		D5E35CCB2ACB6D6F00E08DE2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D5E35C822ACB6D6F00E08DE2 /* Assets.xcassets */; };
 		D5E35CCC2ACB6D6F00E08DE2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D5E35C822ACB6D6F00E08DE2 /* Assets.xcassets */; };
-		D5E35CCD2ACB6D6F00E08DE2 /* SafariWebExtensionHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5E35C842ACB6D6F00E08DE2 /* SafariWebExtensionHandler.swift */; };
 		D5E35CCE2ACB6D6F00E08DE2 /* SafariWebExtensionHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5E35C842ACB6D6F00E08DE2 /* SafariWebExtensionHandler.swift */; };
-		D5E35CCF2ACB6D6F00E08DE2 /* _locales in Resources */ = {isa = PBXBuildFile; fileRef = D5E35C862ACB6D6F00E08DE2 /* _locales */; };
 		D5E35CD02ACB6D6F00E08DE2 /* _locales in Resources */ = {isa = PBXBuildFile; fileRef = D5E35C862ACB6D6F00E08DE2 /* _locales */; };
-		D5E35CD12ACB6D6F00E08DE2 /* images in Resources */ = {isa = PBXBuildFile; fileRef = D5E35C872ACB6D6F00E08DE2 /* images */; };
 		D5E35CD22ACB6D6F00E08DE2 /* images in Resources */ = {isa = PBXBuildFile; fileRef = D5E35C872ACB6D6F00E08DE2 /* images */; };
-		D5E35CD32ACB6D6F00E08DE2 /* manifest.json in Resources */ = {isa = PBXBuildFile; fileRef = D5E35C882ACB6D6F00E08DE2 /* manifest.json */; };
 		D5E35CD42ACB6D6F00E08DE2 /* manifest.json in Resources */ = {isa = PBXBuildFile; fileRef = D5E35C882ACB6D6F00E08DE2 /* manifest.json */; };
-		D5E35CD52ACB6D6F00E08DE2 /* background.js in Resources */ = {isa = PBXBuildFile; fileRef = D5E35C892ACB6D6F00E08DE2 /* background.js */; };
 		D5E35CD62ACB6D6F00E08DE2 /* background.js in Resources */ = {isa = PBXBuildFile; fileRef = D5E35C892ACB6D6F00E08DE2 /* background.js */; };
-		D5E35CD72ACB6D6F00E08DE2 /* content.js in Resources */ = {isa = PBXBuildFile; fileRef = D5E35C8A2ACB6D6F00E08DE2 /* content.js */; };
 		D5E35CD82ACB6D6F00E08DE2 /* content.js in Resources */ = {isa = PBXBuildFile; fileRef = D5E35C8A2ACB6D6F00E08DE2 /* content.js */; };
-		D5E35CD92ACB6D6F00E08DE2 /* popup.html in Resources */ = {isa = PBXBuildFile; fileRef = D5E35C8B2ACB6D6F00E08DE2 /* popup.html */; };
 		D5E35CDA2ACB6D6F00E08DE2 /* popup.html in Resources */ = {isa = PBXBuildFile; fileRef = D5E35C8B2ACB6D6F00E08DE2 /* popup.html */; };
-		D5E35CDB2ACB6D6F00E08DE2 /* popup.css in Resources */ = {isa = PBXBuildFile; fileRef = D5E35C8C2ACB6D6F00E08DE2 /* popup.css */; };
 		D5E35CDC2ACB6D6F00E08DE2 /* popup.css in Resources */ = {isa = PBXBuildFile; fileRef = D5E35C8C2ACB6D6F00E08DE2 /* popup.css */; };
-		D5E35CDD2ACB6D6F00E08DE2 /* popup.js in Resources */ = {isa = PBXBuildFile; fileRef = D5E35C8D2ACB6D6F00E08DE2 /* popup.js */; };
 		D5E35CDE2ACB6D6F00E08DE2 /* popup.js in Resources */ = {isa = PBXBuildFile; fileRef = D5E35C8D2ACB6D6F00E08DE2 /* popup.js */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		D5E35CB22ACB6D6F00E08DE2 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = D5E35C762ACB6D6D00E08DE2 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = D5E35CAF2ACB6D6F00E08DE2;
-			remoteInfo = "YouTubeLight Extension (iOS)";
-		};
 		D5E35CBC2ACB6D6F00E08DE2 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = D5E35C762ACB6D6D00E08DE2 /* Project object */;
@@ -65,17 +38,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXCopyFilesBuildPhase section */
-		D5E35CE42ACB6D6F00E08DE2 /* Embed Foundation Extensions */ = {
-			isa = PBXCopyFilesBuildPhase;
-			buildActionMask = 2147483647;
-			dstPath = "";
-			dstSubfolderSpec = 13;
-			files = (
-				D5E35CB12ACB6D6F00E08DE2 /* YouTubeLight Extension.appex in Embed Foundation Extensions */,
-			);
-			name = "Embed Foundation Extensions";
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		D5E35CEB2ACB6D6F00E08DE2 /* Embed Foundation Extensions */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
@@ -105,39 +67,17 @@
 		D5E35C8B2ACB6D6F00E08DE2 /* popup.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = popup.html; sourceTree = "<group>"; };
 		D5E35C8C2ACB6D6F00E08DE2 /* popup.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = popup.css; sourceTree = "<group>"; };
 		D5E35C8D2ACB6D6F00E08DE2 /* popup.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; path = popup.js; sourceTree = "<group>"; };
-		D5E35C922ACB6D6F00E08DE2 /* YouTubeLight.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = YouTubeLight.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		D5E35C952ACB6D6F00E08DE2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		D5E35C972ACB6D6F00E08DE2 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		D5E35C9A2ACB6D6F00E08DE2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		D5E35C9D2ACB6D6F00E08DE2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		D5E35C9F2ACB6D6F00E08DE2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D5E35CA42ACB6D6F00E08DE2 /* YouTubeLight.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = YouTubeLight.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D5E35CA62ACB6D6F00E08DE2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D5E35CA92ACB6D6F00E08DE2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		D5E35CAB2ACB6D6F00E08DE2 /* YouTubeLight.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = YouTubeLight.entitlements; sourceTree = "<group>"; };
-		D5E35CB02ACB6D6F00E08DE2 /* YouTubeLight Extension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "YouTubeLight Extension.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
-		D5E35CB52ACB6D6F00E08DE2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D5E35CBA2ACB6D6F00E08DE2 /* YouTubeLight Extension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "YouTubeLight Extension.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D5E35CBF2ACB6D6F00E08DE2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D5E35CC02ACB6D6F00E08DE2 /* YouTubeLight.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = YouTubeLight.entitlements; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		D5E35C8F2ACB6D6F00E08DE2 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		D5E35CA12ACB6D6F00E08DE2 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		D5E35CAD2ACB6D6F00E08DE2 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -159,9 +99,7 @@
 			children = (
 				D5E35C7A2ACB6D6D00E08DE2 /* Shared (App) */,
 				D5E35C832ACB6D6F00E08DE2 /* Shared (Extension) */,
-				D5E35C942ACB6D6F00E08DE2 /* iOS (App) */,
 				D5E35CA52ACB6D6F00E08DE2 /* macOS (App) */,
-				D5E35CB42ACB6D6F00E08DE2 /* iOS (Extension) */,
 				D5E35CBE2ACB6D6F00E08DE2 /* macOS (Extension) */,
 				D5E35C932ACB6D6F00E08DE2 /* Products */,
 			);
@@ -215,24 +153,10 @@
 		D5E35C932ACB6D6F00E08DE2 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				D5E35C922ACB6D6F00E08DE2 /* YouTubeLight.app */,
 				D5E35CA42ACB6D6F00E08DE2 /* YouTubeLight.app */,
-				D5E35CB02ACB6D6F00E08DE2 /* YouTubeLight Extension.appex */,
 				D5E35CBA2ACB6D6F00E08DE2 /* YouTubeLight Extension.appex */,
 			);
 			name = Products;
-			sourceTree = "<group>";
-		};
-		D5E35C942ACB6D6F00E08DE2 /* iOS (App) */ = {
-			isa = PBXGroup;
-			children = (
-				D5E35C952ACB6D6F00E08DE2 /* AppDelegate.swift */,
-				D5E35C972ACB6D6F00E08DE2 /* SceneDelegate.swift */,
-				D5E35C992ACB6D6F00E08DE2 /* LaunchScreen.storyboard */,
-				D5E35C9C2ACB6D6F00E08DE2 /* Main.storyboard */,
-				D5E35C9F2ACB6D6F00E08DE2 /* Info.plist */,
-			);
-			path = "iOS (App)";
 			sourceTree = "<group>";
 		};
 		D5E35CA52ACB6D6F00E08DE2 /* macOS (App) */ = {
@@ -243,14 +167,6 @@
 				D5E35CAB2ACB6D6F00E08DE2 /* YouTubeLight.entitlements */,
 			);
 			path = "macOS (App)";
-			sourceTree = "<group>";
-		};
-		D5E35CB42ACB6D6F00E08DE2 /* iOS (Extension) */ = {
-			isa = PBXGroup;
-			children = (
-				D5E35CB52ACB6D6F00E08DE2 /* Info.plist */,
-			);
-			path = "iOS (Extension)";
 			sourceTree = "<group>";
 		};
 		D5E35CBE2ACB6D6F00E08DE2 /* macOS (Extension) */ = {
@@ -265,25 +181,6 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		D5E35C912ACB6D6F00E08DE2 /* YouTubeLight (iOS) */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = D5E35CE52ACB6D6F00E08DE2 /* Build configuration list for PBXNativeTarget "YouTubeLight (iOS)" */;
-			buildPhases = (
-				D5E35C8E2ACB6D6F00E08DE2 /* Sources */,
-				D5E35C8F2ACB6D6F00E08DE2 /* Frameworks */,
-				D5E35C902ACB6D6F00E08DE2 /* Resources */,
-				D5E35CE42ACB6D6F00E08DE2 /* Embed Foundation Extensions */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				D5E35CB32ACB6D6F00E08DE2 /* PBXTargetDependency */,
-			);
-			name = "YouTubeLight (iOS)";
-			productName = "YouTubeLight (iOS)";
-			productReference = D5E35C922ACB6D6F00E08DE2 /* YouTubeLight.app */;
-			productType = "com.apple.product-type.application";
-		};
 		D5E35CA32ACB6D6F00E08DE2 /* YouTubeLight (macOS) */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = D5E35CEC2ACB6D6F00E08DE2 /* Build configuration list for PBXNativeTarget "YouTubeLight (macOS)" */;
@@ -302,23 +199,6 @@
 			productName = "YouTubeLight (macOS)";
 			productReference = D5E35CA42ACB6D6F00E08DE2 /* YouTubeLight.app */;
 			productType = "com.apple.product-type.application";
-		};
-		D5E35CAF2ACB6D6F00E08DE2 /* YouTubeLight Extension (iOS) */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = D5E35CE12ACB6D6F00E08DE2 /* Build configuration list for PBXNativeTarget "YouTubeLight Extension (iOS)" */;
-			buildPhases = (
-				D5E35CAC2ACB6D6F00E08DE2 /* Sources */,
-				D5E35CAD2ACB6D6F00E08DE2 /* Frameworks */,
-				D5E35CAE2ACB6D6F00E08DE2 /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-			);
-			name = "YouTubeLight Extension (iOS)";
-			productName = "YouTubeLight Extension (iOS)";
-			productReference = D5E35CB02ACB6D6F00E08DE2 /* YouTubeLight Extension.appex */;
-			productType = "com.apple.product-type.app-extension";
 		};
 		D5E35CB92ACB6D6F00E08DE2 /* YouTubeLight Extension (macOS) */ = {
 			isa = PBXNativeTarget;
@@ -347,13 +227,7 @@
 				LastSwiftUpdateCheck = 1430;
 				LastUpgradeCheck = 1430;
 				TargetAttributes = {
-					D5E35C912ACB6D6F00E08DE2 = {
-						CreatedOnToolsVersion = 14.3.1;
-					};
 					D5E35CA32ACB6D6F00E08DE2 = {
-						CreatedOnToolsVersion = 14.3.1;
-					};
-					D5E35CAF2ACB6D6F00E08DE2 = {
 						CreatedOnToolsVersion = 14.3.1;
 					};
 					D5E35CB92ACB6D6F00E08DE2 = {
@@ -374,29 +248,13 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				D5E35C912ACB6D6F00E08DE2 /* YouTubeLight (iOS) */,
 				D5E35CA32ACB6D6F00E08DE2 /* YouTubeLight (macOS) */,
-				D5E35CAF2ACB6D6F00E08DE2 /* YouTubeLight Extension (iOS) */,
 				D5E35CB92ACB6D6F00E08DE2 /* YouTubeLight Extension (macOS) */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		D5E35C902ACB6D6F00E08DE2 /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				D5E35CC32ACB6D6F00E08DE2 /* Icon.png in Resources */,
-				D5E35C9B2ACB6D6F00E08DE2 /* LaunchScreen.storyboard in Resources */,
-				D5E35CC12ACB6D6F00E08DE2 /* Main.html in Resources */,
-				D5E35CC72ACB6D6F00E08DE2 /* Script.js in Resources */,
-				D5E35CCB2ACB6D6F00E08DE2 /* Assets.xcassets in Resources */,
-				D5E35C9E2ACB6D6F00E08DE2 /* Main.storyboard in Resources */,
-				D5E35CC52ACB6D6F00E08DE2 /* Style.css in Resources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		D5E35CA22ACB6D6F00E08DE2 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -407,21 +265,6 @@
 				D5E35CC82ACB6D6F00E08DE2 /* Script.js in Resources */,
 				D5E35CCC2ACB6D6F00E08DE2 /* Assets.xcassets in Resources */,
 				D5E35CC22ACB6D6F00E08DE2 /* Main.html in Resources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		D5E35CAE2ACB6D6F00E08DE2 /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				D5E35CD52ACB6D6F00E08DE2 /* background.js in Resources */,
-				D5E35CDB2ACB6D6F00E08DE2 /* popup.css in Resources */,
-				D5E35CD92ACB6D6F00E08DE2 /* popup.html in Resources */,
-				D5E35CD12ACB6D6F00E08DE2 /* images in Resources */,
-				D5E35CD32ACB6D6F00E08DE2 /* manifest.json in Resources */,
-				D5E35CCF2ACB6D6F00E08DE2 /* _locales in Resources */,
-				D5E35CD72ACB6D6F00E08DE2 /* content.js in Resources */,
-				D5E35CDD2ACB6D6F00E08DE2 /* popup.js in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -443,30 +286,12 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		D5E35C8E2ACB6D6F00E08DE2 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				D5E35CC92ACB6D6F00E08DE2 /* ViewController.swift in Sources */,
-				D5E35C962ACB6D6F00E08DE2 /* AppDelegate.swift in Sources */,
-				D5E35C982ACB6D6F00E08DE2 /* SceneDelegate.swift in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		D5E35CA02ACB6D6F00E08DE2 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 				D5E35CCA2ACB6D6F00E08DE2 /* ViewController.swift in Sources */,
 				D5E35CA72ACB6D6F00E08DE2 /* AppDelegate.swift in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		D5E35CAC2ACB6D6F00E08DE2 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				D5E35CCD2ACB6D6F00E08DE2 /* SafariWebExtensionHandler.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -481,11 +306,6 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		D5E35CB32ACB6D6F00E08DE2 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = D5E35CAF2ACB6D6F00E08DE2 /* YouTubeLight Extension (iOS) */;
-			targetProxy = D5E35CB22ACB6D6F00E08DE2 /* PBXContainerItemProxy */;
-		};
 		D5E35CBD2ACB6D6F00E08DE2 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = D5E35CB92ACB6D6F00E08DE2 /* YouTubeLight Extension (macOS) */;
@@ -500,22 +320,6 @@
 				D5E35C7D2ACB6D6D00E08DE2 /* Base */,
 			);
 			name = Main.html;
-			sourceTree = "<group>";
-		};
-		D5E35C992ACB6D6F00E08DE2 /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				D5E35C9A2ACB6D6F00E08DE2 /* Base */,
-			);
-			name = LaunchScreen.storyboard;
-			sourceTree = "<group>";
-		};
-		D5E35C9C2ACB6D6F00E08DE2 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				D5E35C9D2ACB6D6F00E08DE2 /* Base */,
-			);
-			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
 		D5E35CA82ACB6D6F00E08DE2 /* Main.storyboard */ = {
@@ -638,146 +442,6 @@
 			};
 			name = Release;
 		};
-		D5E35CE22ACB6D6F00E08DE2 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = D5PF55MQZK;
-				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "iOS (Extension)/Info.plist";
-				INFOPLIST_KEY_CFBundleDisplayName = "YouTubeLight Extension";
-				INFOPLIST_KEY_NSHumanReadableCopyright = "";
-				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@executable_path/../../Frameworks",
-				);
-				MARKETING_VERSION = 1.0;
-				OTHER_LDFLAGS = (
-					"-framework",
-					SafariServices,
-				);
-				PRODUCT_BUNDLE_IDENTIFIER = edmstudio.YouTubeLight.Extension;
-				PRODUCT_NAME = "YouTubeLight Extension";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_EMIT_LOC_STRINGS = YES;
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-			};
-			name = Debug;
-		};
-		D5E35CE32ACB6D6F00E08DE2 /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = D5PF55MQZK;
-				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "iOS (Extension)/Info.plist";
-				INFOPLIST_KEY_CFBundleDisplayName = "YouTubeLight Extension";
-				INFOPLIST_KEY_NSHumanReadableCopyright = "";
-				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@executable_path/../../Frameworks",
-				);
-				MARKETING_VERSION = 1.0;
-				OTHER_LDFLAGS = (
-					"-framework",
-					SafariServices,
-				);
-				PRODUCT_BUNDLE_IDENTIFIER = edmstudio.YouTubeLight.Extension;
-				PRODUCT_NAME = "YouTubeLight Extension";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_EMIT_LOC_STRINGS = YES;
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-			};
-			name = Release;
-		};
-		D5E35CE62ACB6D6F00E08DE2 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = D5PF55MQZK;
-				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "iOS (App)/Info.plist";
-				INFOPLIST_KEY_CFBundleDisplayName = YouTubeLight;
-				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
-				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-				);
-				MARKETING_VERSION = 1.0;
-				OTHER_LDFLAGS = (
-					"-framework",
-					SafariServices,
-					"-framework",
-					WebKit,
-				);
-				PRODUCT_BUNDLE_IDENTIFIER = edmstudio.YouTubeLight;
-				PRODUCT_NAME = YouTubeLight;
-				SDKROOT = iphoneos;
-				SWIFT_EMIT_LOC_STRINGS = YES;
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-			};
-			name = Debug;
-		};
-		D5E35CE72ACB6D6F00E08DE2 /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = D5PF55MQZK;
-				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "iOS (App)/Info.plist";
-				INFOPLIST_KEY_CFBundleDisplayName = YouTubeLight;
-				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
-				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-				);
-				MARKETING_VERSION = 1.0;
-				OTHER_LDFLAGS = (
-					"-framework",
-					SafariServices,
-					"-framework",
-					WebKit,
-				);
-				PRODUCT_BUNDLE_IDENTIFIER = edmstudio.YouTubeLight;
-				PRODUCT_NAME = YouTubeLight;
-				SDKROOT = iphoneos;
-				SWIFT_EMIT_LOC_STRINGS = YES;
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-			};
-			name = Release;
-		};
 		D5E35CE92ACB6D6F00E08DE2 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -796,7 +460,7 @@
 					"@executable_path/../../../../Frameworks",
 				);
 				MACOSX_DEPLOYMENT_TARGET = 10.14;
-				MARKETING_VERSION = 1.0;
+				MARKETING_VERSION = 1.2;
 				OTHER_LDFLAGS = (
 					"-framework",
 					SafariServices,
@@ -828,7 +492,7 @@
 					"@executable_path/../../../../Frameworks",
 				);
 				MACOSX_DEPLOYMENT_TARGET = 10.14;
-				MARKETING_VERSION = 1.0;
+				MARKETING_VERSION = 1.2;
 				OTHER_LDFLAGS = (
 					"-framework",
 					SafariServices,
@@ -862,7 +526,7 @@
 					"@executable_path/../Frameworks",
 				);
 				MACOSX_DEPLOYMENT_TARGET = 10.14;
-				MARKETING_VERSION = 1.0;
+				MARKETING_VERSION = 1.2;
 				OTHER_LDFLAGS = (
 					"-framework",
 					SafariServices,
@@ -897,7 +561,7 @@
 					"@executable_path/../Frameworks",
 				);
 				MACOSX_DEPLOYMENT_TARGET = 10.14;
-				MARKETING_VERSION = 1.0;
+				MARKETING_VERSION = 1.2;
 				OTHER_LDFLAGS = (
 					"-framework",
 					SafariServices,
@@ -920,24 +584,6 @@
 			buildConfigurations = (
 				D5E35CDF2ACB6D6F00E08DE2 /* Debug */,
 				D5E35CE02ACB6D6F00E08DE2 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		D5E35CE12ACB6D6F00E08DE2 /* Build configuration list for PBXNativeTarget "YouTubeLight Extension (iOS)" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				D5E35CE22ACB6D6F00E08DE2 /* Debug */,
-				D5E35CE32ACB6D6F00E08DE2 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		D5E35CE52ACB6D6F00E08DE2 /* Build configuration list for PBXNativeTarget "YouTubeLight (iOS)" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				D5E35CE62ACB6D6F00E08DE2 /* Debug */,
-				D5E35CE72ACB6D6F00E08DE2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

@@ -6,6 +6,41 @@
     <script type="module" src="popup.js"></script>
 </head>
 <body>
-    <strong>Hello World!</strong>
+    <div class="container">
+        <div class="header">
+            <h1>YouTubeLight</h1>
+            <p class="subtitle">Clean YouTube Experience</p>
+        </div>
+        
+        <div class="status-section">
+            <div class="status-item">
+                <span class="status-label">Status:</span>
+                <span id="status-indicator" class="status-indicator">Checking...</span>
+            </div>
+            <div class="status-item">
+                <span class="status-label">Active on:</span>
+                <span id="current-url" class="current-url">-</span>
+            </div>
+        </div>
+        
+        <div class="features-section">
+            <h3>What's Hidden:</h3>
+            <ul class="features-list">
+                <li>✓ Suggested videos sidebar</li>
+                <li>✓ YouTube Shorts</li>
+                <li>✓ Related videos</li>
+                <li>✓ Shorts navigation</li>
+            </ul>
+        </div>
+        
+        <div class="actions-section">
+            <button id="refresh-btn" class="action-button">Refresh Page</button>
+            <button id="toggle-btn" class="action-button secondary">Toggle Extension</button>
+        </div>
+        
+        <div class="footer">
+            <p class="version">v1.0.0</p>
+        </div>
+    </div>
 </body>
 </html>
